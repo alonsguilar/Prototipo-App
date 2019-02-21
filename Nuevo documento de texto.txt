@@ -1,0 +1,1 @@
+Se busca que el prototipo, agregue estudiantes, agrega materias, crear grupos, matricula estudiantes.
