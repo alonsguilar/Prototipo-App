@@ -18,7 +18,7 @@
             <img src="imagenes/utn.jpg" class="img-fluid" style="width:50%;" alt="Libros" />
             <hr class="my-4" />
             <p class="lead ">
-                <asp:HyperLink ID="HyperLink1" NavigateUrl="~/listaElementos.aspx" runat="server" CssClass="btn btn-primary btn-lg">Ingresar</asp:HyperLink>
+                <asp:HyperLink ID="HyperLink1" NavigateUrl="~/mantEstudiante.aspx" runat="server" CssClass="btn btn-primary btn-lg">Ingresar</asp:HyperLink>
              </p>
         </div>
         <!-- Bienvenida -->

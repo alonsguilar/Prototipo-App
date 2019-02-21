@@ -13,3 +13,28 @@ Aquí se hará la creación de grupos los cuales contienen un código, un profesor, 
 
 Realizar Matrícula
 Este módulo lleva a cabo la matrícula del estudiante hacia algún o algunas materias. Se registra un código y el número de Boucher . Además se debe seleccionar el estudiante que realizará la matrícula y así los cursos a matricular.
+
+
+    <form id="form1" runat="server">
+        <!-- Bienvenida -->
+        <div class="jumbotron">
+            <h1 class="display-3">Sistema Dirección de Extensión y Acción Social Estudio de factibilidad</h1>
+            <p class="lead">Bienvenido</p>
+            <img src="imagenes/utn.jpg" class="img-fluid" style="width:50%;" alt="Libros" />
+            <hr class="my-4" />
+            <p class="lead ">
+                <asp:HyperLink ID="HyperLink1" NavigateUrl="~/listaElementos.aspx" runat="server" CssClass="btn btn-primary btn-lg">Ingresar</asp:HyperLink>
+             </p>
+        </div>
+        <!-- Bienvenida -->
+        <!-- Footer -->
+        <footer class="footer text-center bg-secondary ">
+            <!-- Copyright -->
+            <div class="container">
+                <asp:Label ID="lblCopyright" runat="server" Text="<%$ AppSettings: copyright %>"></asp:Label>
+            </div>
+            <!-- Copyright -->
+
+        </footer>
+        <!-- Footer -->
+    </form>
