@@ -1,1 +1,15 @@
 Se busca que el prototipo, agregue estudiantes, agrega materias, crear grupos, matricula estudiantes.
+
+
+
+Ingresar Estudiante
+En este módulo se almacenará información del estudiante como carne, nombre, dirección, teléfono, email.
+
+Ingresar Materias
+Se almacenará un código único para cada materia, un nombre y su respectiva descripción.
+
+Crear Grupos
+Aquí se hará la creación de grupos los cuales contienen un código, un profesor, una materia, se le asigna una aula, y un horario.
+
+Realizar Matrícula
+Este módulo lleva a cabo la matrícula del estudiante hacia algún o algunas materias. Se registra un código y el número de Boucher . Además se debe seleccionar el estudiante que realizará la matrícula y así los cursos a matricular.
