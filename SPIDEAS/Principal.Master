@@ -27,7 +27,7 @@
 
             <LevelMenuItemStyles>
                 <asp:MenuItemStyle CssClass="nav-item nav-link " />
-                <asp:MenuItemStyle CssClass="nav-item nav-link bg-dark" />
+                <asp:MenuItemStyle CssClass="nav-item nav-link bg-secondary" />
             </LevelMenuItemStyles>
         </asp:Menu>
         <ol class="breadcrumb">

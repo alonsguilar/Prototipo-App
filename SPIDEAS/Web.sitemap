@@ -2,15 +2,23 @@
 <siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
   <siteMapNode url="" title=""  description="">
     <siteMapNode url="inicio.aspx" title="Inicio"  description="" />
-    <siteMapNode url="" title="Libros"  description="" >
-      <siteMapNode url="" title="Lista Libros"  description="" />
-      <siteMapNode url="" title="Mantenimiento Libros"  description="" />
+    
+    <siteMapNode url="mantEstudiante.aspx" title="Mantenimiento Estudiantes"  description="" >
+      <siteMapNode url="" title="Lista Estudiantes"  description="" />      
     </siteMapNode>
 
-    <siteMapNode url="" title="Compras"  description="" >
-      <siteMapNode url="" title="Carrito"  description="" />
-      <siteMapNode url="" title="Ordenes de Compra"  description="" />
+    <siteMapNode url="manMaterias.aspx" title="Mantenimiento Materias"  description="" >
+      <siteMapNode url="" title="Lista Materias"  description="" />      
     </siteMapNode>
+
+    <siteMapNode url="manGrupos.aspx" title="Mantenimiento Grupos"  description="" >
+      <siteMapNode url="" title="Lista Cursos"  description="" />
+    </siteMapNode>
+
+    <siteMapNode url="manMatricula.aspx" title="Mantenimiento Matricula"  description="" >
+      <siteMapNode url="" title="Lista Matriculas"  description="" />
+    </siteMapNode>
+    
 
   </siteMapNode>
 
